@@ -1,0 +1,455 @@
+{
+  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/sequence/Football-1911s_Football-1911s_Page_01_Image_0001.json",
+  "@type": "sc:Sequence",
+  "canvases": [
+    {
+      "@type": "sc:Canvas",
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/Football-1911s_Football-1911s_Page_01_Image_0001.json",
+      "label": "Page 1",
+      "width": 2695,
+      "height": 3863,
+      "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/Football-1911s_Football-1911s_Page_01_Image_0001/full/250,/0/default.jpg",
+      "images": [
+        {
+          "@type": "oa:Annotation",
+          "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/annotation/Football-1911s_Football-1911s_Page_01_Image_0001.json",
+          "motivation": "sc:painting",
+          "resource": {
+            "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/Football-1911s_Football-1911s_Page_01_Image_0001/full/full/0/default.jpg",
+            "@type": "dcterms:Image",
+            "format": "image/jpeg",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/Football-1911s_Football-1911s_Page_01_Image_0001",
+              "profile": "http://iiif.io/api/image/2/level0.json"
+            },
+            "width": 2695,
+            "height": 3863
+          },
+          "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/Football-1911s_Football-1911s_Page_01_Image_0001.json"
+        }
+      ]
+    },
+    {
+      "@type": "sc:Canvas",
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/Football-1911s_Football-1911s_Page_02_Image_0001.json",
+      "label": "Page 2",
+      "width": 2704,
+      "height": 3861,
+      "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/Football-1911s_Football-1911s_Page_02_Image_0001/full/250,/0/default.jpg",
+      "images": [
+        {
+          "@type": "oa:Annotation",
+          "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/annotation/Football-1911s_Football-1911s_Page_02_Image_0001.json",
+          "motivation": "sc:painting",
+          "resource": {
+            "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/Football-1911s_Football-1911s_Page_02_Image_0001/full/full/0/default.jpg",
+            "@type": "dcterms:Image",
+            "format": "image/jpeg",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/Football-1911s_Football-1911s_Page_02_Image_0001",
+              "profile": "http://iiif.io/api/image/2/level0.json"
+            },
+            "width": 2704,
+            "height": 3861
+          },
+          "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/Football-1911s_Football-1911s_Page_02_Image_0001.json"
+        }
+      ]
+    },
+    {
+      "@type": "sc:Canvas",
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/Football-1911s_Football-1911s_Page_03_Image_0001.json",
+      "label": "Page 3",
+      "width": 2713,
+      "height": 3902,
+      "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/Football-1911s_Football-1911s_Page_03_Image_0001/full/250,/0/default.jpg",
+      "images": [
+        {
+          "@type": "oa:Annotation",
+          "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/annotation/Football-1911s_Football-1911s_Page_03_Image_0001.json",
+          "motivation": "sc:painting",
+          "resource": {
+            "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/Football-1911s_Football-1911s_Page_03_Image_0001/full/full/0/default.jpg",
+            "@type": "dcterms:Image",
+            "format": "image/jpeg",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/Football-1911s_Football-1911s_Page_03_Image_0001",
+              "profile": "http://iiif.io/api/image/2/level0.json"
+            },
+            "width": 2713,
+            "height": 3902
+          },
+          "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/Football-1911s_Football-1911s_Page_03_Image_0001.json"
+        }
+      ]
+    },
+    {
+      "@type": "sc:Canvas",
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/Football-1911s_Football-1911s_Page_04_Image_0001.json",
+      "label": "Page 4",
+      "width": 2751,
+      "height": 3846,
+      "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/Football-1911s_Football-1911s_Page_04_Image_0001/full/250,/0/default.jpg",
+      "images": [
+        {
+          "@type": "oa:Annotation",
+          "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/annotation/Football-1911s_Football-1911s_Page_04_Image_0001.json",
+          "motivation": "sc:painting",
+          "resource": {
+            "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/Football-1911s_Football-1911s_Page_04_Image_0001/full/full/0/default.jpg",
+            "@type": "dcterms:Image",
+            "format": "image/jpeg",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/Football-1911s_Football-1911s_Page_04_Image_0001",
+              "profile": "http://iiif.io/api/image/2/level0.json"
+            },
+            "width": 2751,
+            "height": 3846
+          },
+          "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/Football-1911s_Football-1911s_Page_04_Image_0001.json"
+        }
+      ]
+    },
+    {
+      "@type": "sc:Canvas",
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/Football-1911s_Football-1911s_Page_05_Image_0001.json",
+      "label": "Page 5",
+      "width": 2665,
+      "height": 3859,
+      "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/Football-1911s_Football-1911s_Page_05_Image_0001/full/250,/0/default.jpg",
+      "images": [
+        {
+          "@type": "oa:Annotation",
+          "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/annotation/Football-1911s_Football-1911s_Page_05_Image_0001.json",
+          "motivation": "sc:painting",
+          "resource": {
+            "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/Football-1911s_Football-1911s_Page_05_Image_0001/full/full/0/default.jpg",
+            "@type": "dcterms:Image",
+            "format": "image/jpeg",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/Football-1911s_Football-1911s_Page_05_Image_0001",
+              "profile": "http://iiif.io/api/image/2/level0.json"
+            },
+            "width": 2665,
+            "height": 3859
+          },
+          "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/Football-1911s_Football-1911s_Page_05_Image_0001.json"
+        }
+      ]
+    },
+    {
+      "@type": "sc:Canvas",
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/Football-1911s_Football-1911s_Page_06_Image_0001.json",
+      "label": "Page 6",
+      "width": 2697,
+      "height": 3825,
+      "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/Football-1911s_Football-1911s_Page_06_Image_0001/full/250,/0/default.jpg",
+      "images": [
+        {
+          "@type": "oa:Annotation",
+          "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/annotation/Football-1911s_Football-1911s_Page_06_Image_0001.json",
+          "motivation": "sc:painting",
+          "resource": {
+            "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/Football-1911s_Football-1911s_Page_06_Image_0001/full/full/0/default.jpg",
+            "@type": "dcterms:Image",
+            "format": "image/jpeg",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/Football-1911s_Football-1911s_Page_06_Image_0001",
+              "profile": "http://iiif.io/api/image/2/level0.json"
+            },
+            "width": 2697,
+            "height": 3825
+          },
+          "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/Football-1911s_Football-1911s_Page_06_Image_0001.json"
+        }
+      ]
+    },
+    {
+      "@type": "sc:Canvas",
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/Football-1911s_Football-1911s_Page_07_Image_0001.json",
+      "label": "Page 7",
+      "width": 2687,
+      "height": 3837,
+      "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/Football-1911s_Football-1911s_Page_07_Image_0001/full/250,/0/default.jpg",
+      "images": [
+        {
+          "@type": "oa:Annotation",
+          "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/annotation/Football-1911s_Football-1911s_Page_07_Image_0001.json",
+          "motivation": "sc:painting",
+          "resource": {
+            "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/Football-1911s_Football-1911s_Page_07_Image_0001/full/full/0/default.jpg",
+            "@type": "dcterms:Image",
+            "format": "image/jpeg",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/Football-1911s_Football-1911s_Page_07_Image_0001",
+              "profile": "http://iiif.io/api/image/2/level0.json"
+            },
+            "width": 2687,
+            "height": 3837
+          },
+          "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/Football-1911s_Football-1911s_Page_07_Image_0001.json"
+        }
+      ]
+    },
+    {
+      "@type": "sc:Canvas",
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/Football-1911s_Football-1911s_Page_08_Image_0001.json",
+      "label": "Page 8",
+      "width": 2744,
+      "height": 3855,
+      "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/Football-1911s_Football-1911s_Page_08_Image_0001/full/250,/0/default.jpg",
+      "images": [
+        {
+          "@type": "oa:Annotation",
+          "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/annotation/Football-1911s_Football-1911s_Page_08_Image_0001.json",
+          "motivation": "sc:painting",
+          "resource": {
+            "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/Football-1911s_Football-1911s_Page_08_Image_0001/full/full/0/default.jpg",
+            "@type": "dcterms:Image",
+            "format": "image/jpeg",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/Football-1911s_Football-1911s_Page_08_Image_0001",
+              "profile": "http://iiif.io/api/image/2/level0.json"
+            },
+            "width": 2744,
+            "height": 3855
+          },
+          "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/Football-1911s_Football-1911s_Page_08_Image_0001.json"
+        }
+      ]
+    },
+    {
+      "@type": "sc:Canvas",
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/Football-1911s_Football-1911s_Page_09_Image_0001.json",
+      "label": "Page 9",
+      "width": 2644,
+      "height": 3848,
+      "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/Football-1911s_Football-1911s_Page_09_Image_0001/full/250,/0/default.jpg",
+      "images": [
+        {
+          "@type": "oa:Annotation",
+          "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/annotation/Football-1911s_Football-1911s_Page_09_Image_0001.json",
+          "motivation": "sc:painting",
+          "resource": {
+            "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/Football-1911s_Football-1911s_Page_09_Image_0001/full/full/0/default.jpg",
+            "@type": "dcterms:Image",
+            "format": "image/jpeg",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/Football-1911s_Football-1911s_Page_09_Image_0001",
+              "profile": "http://iiif.io/api/image/2/level0.json"
+            },
+            "width": 2644,
+            "height": 3848
+          },
+          "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/Football-1911s_Football-1911s_Page_09_Image_0001.json"
+        }
+      ]
+    },
+    {
+      "@type": "sc:Canvas",
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/Football-1911s_Football-1911s_Page_10_Image_0001.json",
+      "label": "Page 10",
+      "width": 2699,
+      "height": 3819,
+      "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/Football-1911s_Football-1911s_Page_10_Image_0001/full/250,/0/default.jpg",
+      "images": [
+        {
+          "@type": "oa:Annotation",
+          "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/annotation/Football-1911s_Football-1911s_Page_10_Image_0001.json",
+          "motivation": "sc:painting",
+          "resource": {
+            "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/Football-1911s_Football-1911s_Page_10_Image_0001/full/full/0/default.jpg",
+            "@type": "dcterms:Image",
+            "format": "image/jpeg",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/Football-1911s_Football-1911s_Page_10_Image_0001",
+              "profile": "http://iiif.io/api/image/2/level0.json"
+            },
+            "width": 2699,
+            "height": 3819
+          },
+          "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/Football-1911s_Football-1911s_Page_10_Image_0001.json"
+        }
+      ]
+    },
+    {
+      "@type": "sc:Canvas",
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/Football-1911s_Football-1911s_Page_11_Image_0001.json",
+      "label": "Page 11",
+      "width": 2666,
+      "height": 3847,
+      "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/Football-1911s_Football-1911s_Page_11_Image_0001/full/250,/0/default.jpg",
+      "images": [
+        {
+          "@type": "oa:Annotation",
+          "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/annotation/Football-1911s_Football-1911s_Page_11_Image_0001.json",
+          "motivation": "sc:painting",
+          "resource": {
+            "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/Football-1911s_Football-1911s_Page_11_Image_0001/full/full/0/default.jpg",
+            "@type": "dcterms:Image",
+            "format": "image/jpeg",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/Football-1911s_Football-1911s_Page_11_Image_0001",
+              "profile": "http://iiif.io/api/image/2/level0.json"
+            },
+            "width": 2666,
+            "height": 3847
+          },
+          "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/Football-1911s_Football-1911s_Page_11_Image_0001.json"
+        }
+      ]
+    },
+    {
+      "@type": "sc:Canvas",
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/Football-1911s_Football-1911s_Page_12_Image_0001.json",
+      "label": "Page 12",
+      "width": 2670,
+      "height": 3793,
+      "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/Football-1911s_Football-1911s_Page_12_Image_0001/full/250,/0/default.jpg",
+      "images": [
+        {
+          "@type": "oa:Annotation",
+          "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/annotation/Football-1911s_Football-1911s_Page_12_Image_0001.json",
+          "motivation": "sc:painting",
+          "resource": {
+            "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/Football-1911s_Football-1911s_Page_12_Image_0001/full/full/0/default.jpg",
+            "@type": "dcterms:Image",
+            "format": "image/jpeg",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/Football-1911s_Football-1911s_Page_12_Image_0001",
+              "profile": "http://iiif.io/api/image/2/level0.json"
+            },
+            "width": 2670,
+            "height": 3793
+          },
+          "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/Football-1911s_Football-1911s_Page_12_Image_0001.json"
+        }
+      ]
+    },
+    {
+      "@type": "sc:Canvas",
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/Football-1911s_Football-1911s_Page_13_Image_0001.json",
+      "label": "Page 13",
+      "width": 2625,
+      "height": 3824,
+      "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/Football-1911s_Football-1911s_Page_13_Image_0001/full/250,/0/default.jpg",
+      "images": [
+        {
+          "@type": "oa:Annotation",
+          "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/annotation/Football-1911s_Football-1911s_Page_13_Image_0001.json",
+          "motivation": "sc:painting",
+          "resource": {
+            "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/Football-1911s_Football-1911s_Page_13_Image_0001/full/full/0/default.jpg",
+            "@type": "dcterms:Image",
+            "format": "image/jpeg",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/Football-1911s_Football-1911s_Page_13_Image_0001",
+              "profile": "http://iiif.io/api/image/2/level0.json"
+            },
+            "width": 2625,
+            "height": 3824
+          },
+          "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/Football-1911s_Football-1911s_Page_13_Image_0001.json"
+        }
+      ]
+    },
+    {
+      "@type": "sc:Canvas",
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/Football-1911s_Football-1911s_Page_14_Image_0001.json",
+      "label": "Page 14",
+      "width": 2716,
+      "height": 3844,
+      "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/Football-1911s_Football-1911s_Page_14_Image_0001/full/250,/0/default.jpg",
+      "images": [
+        {
+          "@type": "oa:Annotation",
+          "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/annotation/Football-1911s_Football-1911s_Page_14_Image_0001.json",
+          "motivation": "sc:painting",
+          "resource": {
+            "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/Football-1911s_Football-1911s_Page_14_Image_0001/full/full/0/default.jpg",
+            "@type": "dcterms:Image",
+            "format": "image/jpeg",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/Football-1911s_Football-1911s_Page_14_Image_0001",
+              "profile": "http://iiif.io/api/image/2/level0.json"
+            },
+            "width": 2716,
+            "height": 3844
+          },
+          "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/Football-1911s_Football-1911s_Page_14_Image_0001.json"
+        }
+      ]
+    },
+    {
+      "@type": "sc:Canvas",
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/Football-1911s_Football-1911s_Page_15_Image_0001.json",
+      "label": "Page 15",
+      "width": 2675,
+      "height": 3816,
+      "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/Football-1911s_Football-1911s_Page_15_Image_0001/full/250,/0/default.jpg",
+      "images": [
+        {
+          "@type": "oa:Annotation",
+          "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/annotation/Football-1911s_Football-1911s_Page_15_Image_0001.json",
+          "motivation": "sc:painting",
+          "resource": {
+            "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/Football-1911s_Football-1911s_Page_15_Image_0001/full/full/0/default.jpg",
+            "@type": "dcterms:Image",
+            "format": "image/jpeg",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/Football-1911s_Football-1911s_Page_15_Image_0001",
+              "profile": "http://iiif.io/api/image/2/level0.json"
+            },
+            "width": 2675,
+            "height": 3816
+          },
+          "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/Football-1911s_Football-1911s_Page_15_Image_0001.json"
+        }
+      ]
+    },
+    {
+      "@type": "sc:Canvas",
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/Football-1911s_Football-1911s_Page_16_Image_0001.json",
+      "label": "Page 16",
+      "width": 2654,
+      "height": 3841,
+      "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/Football-1911s_Football-1911s_Page_16_Image_0001/full/250,/0/default.jpg",
+      "images": [
+        {
+          "@type": "oa:Annotation",
+          "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/annotation/Football-1911s_Football-1911s_Page_16_Image_0001.json",
+          "motivation": "sc:painting",
+          "resource": {
+            "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/Football-1911s_Football-1911s_Page_16_Image_0001/full/full/0/default.jpg",
+            "@type": "dcterms:Image",
+            "format": "image/jpeg",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/Football-1911s_Football-1911s_Page_16_Image_0001",
+              "profile": "http://iiif.io/api/image/2/level0.json"
+            },
+            "width": 2654,
+            "height": 3841
+          },
+          "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/Football-1911s_Football-1911s_Page_16_Image_0001.json"
+        }
+      ]
+    }
+  ],
+  "@context": "http://iiif.io/api/presentation/2/context.json"
+}

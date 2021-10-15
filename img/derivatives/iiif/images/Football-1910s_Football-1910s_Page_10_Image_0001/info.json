@@ -1,0 +1,42 @@
+{
+  "@context": "http://iiif.io/api/image/2/context.json",
+  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/Football-1910s_Football-1910s_Page_10_Image_0001",
+  "protocol": "http://iiif.io/api/image",
+  "width": 2833,
+  "height": 4101,
+  "sizes": [
+    {
+      "width": 2833,
+      "height": 4101
+    },
+    {
+      "width": 250,
+      "height": 362
+    },
+    {
+      "width": 1140,
+      "height": 1650
+    }
+  ],
+  "profile": [
+    "http://iiif.io/api/image/2/level0.json",
+    {
+      "supports": [
+        "cors",
+        "sizeByWhListed",
+        "baseUriRedirect"
+      ]
+    }
+  ],
+  "tiles": [
+    {
+      "width": 512,
+      "scaleFactors": [
+        1,
+        2,
+        4,
+        8
+      ]
+    }
+  ]
+}
