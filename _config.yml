@@ -67,7 +67,7 @@ collections:
     output: true
   scholastic: # name of collection
     output: true # makes sure pages are output as html files
-    layout: 'scholastic' # the layout for the pages to use
+    layout: 'scholastic_item' # the layout for the pages to use
     metadata:
       source: 'scholastic.csv' # path to the metadata file within `_data`
     images:
