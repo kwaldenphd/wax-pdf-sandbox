@@ -18,7 +18,7 @@
 # Feel free to change these! For more info, refer to:
 # ~> https://jekyllrb.com/docs/configuration/options/
 
-title:            'Wax'
+title:            'Wax Sandbox'
 description:      'Minimal Exhibitions with Jekyll'
 url:              'https://kwaldenphd.github.io'
 baseurl:          '/wax-pdf-sandbox'
@@ -120,11 +120,9 @@ menu:
 footer:
   links:
     - label: 'GitHub'
-      link: 'https://github.com/minicomp/wax'
+      link: 'https://github.com/kwaldenphd/wax-pdf-sandbox'
     - label: 'Credits'
       link: '/credits'
-    - label: 'Contact'
-      link: 'https://gitter.im/minicomp/wax/'
   logos:
     - img: '/img/logo.png'
 
