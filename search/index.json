@@ -6,6 +6,7 @@ layout: none
     "pid": "football-1901s",
     "label": "Notre Dame Scholastic Football Review - 1901",
     "_date": "1901",
+    "thumbnail": "/img/derivatives/simple/football-1901s_image1/thumbnail.jpg",
     "collection": "scholastic",
     "permalink": "/scholastic/football-1901s",
     "lunr_id": 0
@@ -14,6 +15,7 @@ layout: none
     "pid": "football-1902s",
     "label": "Notre Dame Scholastic Football Review - 1902",
     "_date": "1902",
+    "thumbnail": "/img/derivatives/simple/football-1902s_image1/thumbnail.jpg",
     "collection": "scholastic",
     "permalink": "/scholastic/football-1902s",
     "lunr_id": 1
@@ -22,6 +24,7 @@ layout: none
     "pid": "football-1903s",
     "label": "Notre Dame Scholastic Football Review - 1903",
     "_date": "1903",
+    "thumbnail": "/img/derivatives/simple/football-1903s_image0/thumbnail.jpg",
     "collection": "scholastic",
     "permalink": "/scholastic/football-1903s",
     "lunr_id": 2
@@ -30,6 +33,7 @@ layout: none
     "pid": "football-1904s",
     "label": "Notre Dame Scholastic Football Review - 1904",
     "_date": "1904",
+    "thumbnail": "/img/derivatives/simple/football-1904s_image0/thumbnail.jpg",
     "collection": "scholastic",
     "permalink": "/scholastic/football-1904s",
     "lunr_id": 3
@@ -38,6 +42,7 @@ layout: none
     "pid": "football-1905s",
     "label": "Notre Dame Scholastic Football Review - 1905",
     "_date": "1905",
+    "thumbnail": "/img/derivatives/simple/football-1905s_image0/thumbnail.jpg",
     "collection": "scholastic",
     "permalink": "/scholastic/football-1905s",
     "lunr_id": 4
@@ -46,6 +51,7 @@ layout: none
     "pid": "football-1906s",
     "label": "Notre Dame Scholastic Football Review - 1906",
     "_date": "1906",
+    "thumbnail": "/img/derivatives/simple/football-1906s_image0/thumbnail.jpg",
     "collection": "scholastic",
     "permalink": "/scholastic/football-1906s",
     "lunr_id": 5
@@ -54,6 +60,7 @@ layout: none
     "pid": "football-1907s",
     "label": "Notre Dame Scholastic Football Review - 1907",
     "_date": "1907",
+    "thumbnail": "/img/derivatives/simple/football-1907s_image0/thumbnail.jpg",
     "collection": "scholastic",
     "permalink": "/scholastic/football-1907s",
     "lunr_id": 6
@@ -62,6 +69,7 @@ layout: none
     "pid": "football-1908s",
     "label": "Notre Dame Scholastic Football Review - 1908",
     "_date": "1908",
+    "thumbnail": "/img/derivatives/simple/football-1908s_image0/thumbnail.jpg",
     "collection": "scholastic",
     "permalink": "/scholastic/football-1908s",
     "lunr_id": 7
@@ -70,6 +78,7 @@ layout: none
     "pid": "football-1909s",
     "label": "Notre Dame Scholastic Football Review - 1909",
     "_date": "1909",
+    "thumbnail": "/img/derivatives/simple/football-1909s_image0/thumbnail.jpg",
     "collection": "scholastic",
     "permalink": "/scholastic/football-1909s",
     "lunr_id": 8
@@ -78,6 +87,7 @@ layout: none
     "pid": "football-1910",
     "label": "Notre Dame Gridiron Season - 1910",
     "_date": "1910",
+    "thumbnail": "/img/derivatives/simple/football-1910_image0/thumbnail.jpg",
     "collection": "scholastic",
     "permalink": "/scholastic/football-1910",
     "lunr_id": 9
@@ -86,6 +96,7 @@ layout: none
     "pid": "football-1910c",
     "label": "Notre Dame Gridiron Season (color) - 1910",
     "_date": "1910",
+    "thumbnail": "/img/derivatives/simple/football-1910c_image0/thumbnail.jpg",
     "collection": "scholastic",
     "permalink": "/scholastic/football-1910c",
     "lunr_id": 10
@@ -94,6 +105,7 @@ layout: none
     "pid": "football-1910s",
     "label": "Notre Dame Scholastic Football Review - 1910",
     "_date": "1910",
+    "thumbnail": "/img/derivatives/simple/football-1910s_image0/thumbnail.jpg",
     "collection": "scholastic",
     "permalink": "/scholastic/football-1910s",
     "lunr_id": 11
@@ -102,6 +114,7 @@ layout: none
     "pid": "football-1911s",
     "label": "Notre Dame Scholastic Football Review - 1911",
     "_date": "1911",
+    "thumbnail": "/img/derivatives/simple/football-1911s_image0/thumbnail.jpg",
     "collection": "scholastic",
     "permalink": "/scholastic/football-1911s",
     "lunr_id": 12
@@ -110,6 +123,7 @@ layout: none
     "pid": "football-1912s",
     "label": "Notre Dame Scholastic Football Review - 1912",
     "_date": "1912",
+    "thumbnail": "/img/derivatives/simple/football-1912s_image0/thumbnail.jpg",
     "collection": "scholastic",
     "permalink": "/scholastic/football-1912s",
     "lunr_id": 13
@@ -118,6 +132,7 @@ layout: none
     "pid": "football-1913s",
     "label": "Notre Dame Scholastic Football Review - 1913",
     "_date": "1913",
+    "thumbnail": "/img/derivatives/simple/football-1913s_image0/thumbnail.jpg",
     "collection": "scholastic",
     "permalink": "/scholastic/football-1913s",
     "lunr_id": 14
@@ -126,6 +141,7 @@ layout: none
     "pid": "football-1914s",
     "label": "Notre Dame Scholastic Football Review - 1914",
     "_date": "1914",
+    "thumbnail": "/img/derivatives/simple/football-1914s_image0/thumbnail.jpg",
     "collection": "scholastic",
     "permalink": "/scholastic/football-1914s",
     "lunr_id": 15
@@ -134,6 +150,7 @@ layout: none
     "pid": "football-1915s",
     "label": "Notre Dame Scholastic Football Review - 1915",
     "_date": "1915",
+    "thumbnail": "/img/derivatives/simple/football-1915s_image0/thumbnail.jpg",
     "collection": "scholastic",
     "permalink": "/scholastic/football-1915s",
     "lunr_id": 16
@@ -142,6 +159,7 @@ layout: none
     "pid": "football-1916s",
     "label": "Notre Dame Scholastic Football Review - 1916",
     "_date": "1916",
+    "thumbnail": "/img/derivatives/simple/football-1916s_image0/thumbnail.jpg",
     "collection": "scholastic",
     "permalink": "/scholastic/football-1916s",
     "lunr_id": 17
@@ -150,6 +168,7 @@ layout: none
     "pid": "football-1917s",
     "label": "Notre Dame Scholastic Football Review - 1917",
     "_date": "1917",
+    "thumbnail": "/img/derivatives/simple/football-1917s_image0/thumbnail.jpg",
     "collection": "scholastic",
     "permalink": "/scholastic/football-1917s",
     "lunr_id": 18
@@ -158,6 +177,7 @@ layout: none
     "pid": "football-1918s",
     "label": "Notre Dame Scholastic Football Review - 1918",
     "_date": "1918",
+    "thumbnail": "/img/derivatives/simple/football-1918s_image0/thumbnail.jpg",
     "collection": "scholastic",
     "permalink": "/scholastic/football-1918s",
     "lunr_id": 19
@@ -166,6 +186,7 @@ layout: none
     "pid": "football-1919",
     "label": "Notre Dame Football Review - 1919",
     "_date": "1919",
+    "thumbnail": "/img/derivatives/simple/football-1919_image0/thumbnail.jpg",
     "collection": "scholastic",
     "permalink": "/scholastic/football-1919",
     "lunr_id": 20
@@ -174,6 +195,7 @@ layout: none
     "pid": "football-1919s",
     "label": "Notre Dame Scholastic Football Review - 1919",
     "_date": "1919",
+    "thumbnail": "/img/derivatives/simple/football-1919s_image0/thumbnail.jpg",
     "collection": "scholastic",
     "permalink": "/scholastic/football-1919s",
     "lunr_id": 21
@@ -182,6 +204,7 @@ layout: none
     "pid": "football-1920",
     "label": "Notre Dame Football Review - 1920",
     "_date": "1920",
+    "thumbnail": "/img/derivatives/simple/football-1920_image0/thumbnail.jpg",
     "collection": "scholastic",
     "permalink": "/scholastic/football-1920",
     "lunr_id": 22
@@ -190,6 +213,7 @@ layout: none
     "pid": "football-1920s",
     "label": "Notre Dame Scholastic Football Review - 1920",
     "_date": "1920",
+    "thumbnail": "/img/derivatives/simple/football-1920s_image0/thumbnail.jpg",
     "collection": "scholastic",
     "permalink": "/scholastic/football-1920s",
     "lunr_id": 23
@@ -198,6 +222,7 @@ layout: none
     "pid": "football-1921",
     "label": "Notre Dame Football Review - 1921",
     "_date": "1921",
+    "thumbnail": "/img/derivatives/simple/football-1921_image0/thumbnail.jpg",
     "collection": "scholastic",
     "permalink": "/scholastic/football-1921",
     "lunr_id": 24
@@ -206,6 +231,7 @@ layout: none
     "pid": "football-1921s",
     "label": "Notre Dame Scholastic Football Review - 1921",
     "_date": "1921",
+    "thumbnail": "/img/derivatives/simple/football-1921s_image0/thumbnail.jpg",
     "collection": "scholastic",
     "permalink": "/scholastic/football-1921s",
     "lunr_id": 25
@@ -214,6 +240,7 @@ layout: none
     "pid": "football-1922s",
     "label": "Notre Dame Scholastic Football Review - 1922",
     "_date": "1922",
+    "thumbnail": "/img/derivatives/simple/football-1922s_image0/thumbnail.jpg",
     "collection": "scholastic",
     "permalink": "/scholastic/football-1922s",
     "lunr_id": 26
@@ -222,6 +249,7 @@ layout: none
     "pid": "football-1924",
     "label": "Notre Dame Football Review - 1924",
     "_date": "1924",
+    "thumbnail": "/img/derivatives/simple/football-1924_image0/thumbnail.jpg",
     "collection": "scholastic",
     "permalink": "/scholastic/football-1924",
     "lunr_id": 27
@@ -230,6 +258,7 @@ layout: none
     "pid": "football-1925",
     "label": "Notre Dame Football Review - 1925",
     "_date": "1925",
+    "thumbnail": "/img/derivatives/simple/football-1925_image0/thumbnail.jpg",
     "collection": "scholastic",
     "permalink": "/scholastic/football-1925",
     "lunr_id": 28
@@ -238,6 +267,7 @@ layout: none
     "pid": "football-1926",
     "label": "Notre Dame Football Review - 1926",
     "_date": "1926",
+    "thumbnail": "/img/derivatives/simple/football-1926_image0/thumbnail.jpg",
     "collection": "scholastic",
     "permalink": "/scholastic/football-1926",
     "lunr_id": 29
@@ -246,6 +276,7 @@ layout: none
     "pid": "football-1927",
     "label": "Notre Dame Football Review - 1927",
     "_date": "1927",
+    "thumbnail": "/img/derivatives/simple/football-1927_image0/thumbnail.jpg",
     "collection": "scholastic",
     "permalink": "/scholastic/football-1927",
     "lunr_id": 30
@@ -254,6 +285,7 @@ layout: none
     "pid": "football-1928",
     "label": "Notre Dame Football Review - 1928",
     "_date": "1928",
+    "thumbnail": "/img/derivatives/simple/football-1928_image0/thumbnail.jpg",
     "collection": "scholastic",
     "permalink": "/scholastic/football-1928",
     "lunr_id": 31
@@ -262,6 +294,7 @@ layout: none
     "pid": "football-1929",
     "label": "Notre Dame Football Review - 1929",
     "_date": "1929",
+    "thumbnail": "/img/derivatives/simple/football-1929_image0/thumbnail.jpg",
     "collection": "scholastic",
     "permalink": "/scholastic/football-1929",
     "lunr_id": 32
@@ -270,6 +303,7 @@ layout: none
     "pid": "football-1930",
     "label": "Notre Dame Football Review - 1930",
     "_date": "1930",
+    "thumbnail": "/img/derivatives/simple/football-1930_image0/thumbnail.jpg",
     "collection": "scholastic",
     "permalink": "/scholastic/football-1930",
     "lunr_id": 33
@@ -278,6 +312,7 @@ layout: none
     "pid": "football-1930s",
     "label": "Notre Dame Scholastic Football Review - 1930",
     "_date": "1930",
+    "thumbnail": "/img/derivatives/simple/football-1930s_image0/thumbnail.jpg",
     "collection": "scholastic",
     "permalink": "/scholastic/football-1930s",
     "lunr_id": 34
@@ -286,6 +321,7 @@ layout: none
     "pid": "football-1931",
     "label": "Notre Dame Football Review - 1931",
     "_date": "1931",
+    "thumbnail": "/img/derivatives/simple/football-1931_image0/thumbnail.jpg",
     "collection": "scholastic",
     "permalink": "/scholastic/football-1931",
     "lunr_id": 35
