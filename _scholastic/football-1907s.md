@@ -1,0 +1,13 @@
+---
+pid: football-1907s
+order: '6'
+file_name: football-1907s.pdf
+label: Notre Dame Scholastic Football Review - 1907
+_date: '1907'
+object_type: newspaper
+source: http://archives.nd.edu/Football/Football-1907s.pdf
+thumbnail: "/img/derivatives/simple/football-1907s_image0/thumbnail.jpg"
+full: "/img/derivatives/simple/football-1907s_image0/fullwidth.jpg"
+layout: scholastic_item
+collection: scholastic
+---
